@@ -1,1 +1,2 @@
 Este es el primer archivo de este nuevo repositorio llamado trabajo practico n1, es solo un practico para practicar como lo dice el practico y gracias a estas praicas practico git y github. gracias
+ahora esto es una modificacion del archivo, esto esta agregado para poder realizar el practico, vamos a hacer un minuto de silencio porque se va el archivo 2, como los franceses que perdieron la final jajajaj
